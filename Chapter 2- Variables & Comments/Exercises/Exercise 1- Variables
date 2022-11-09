@@ -1,0 +1,4 @@
+a="Do not dwell in the past"
+print(a)
+a="It is what it is"
+print(a)
