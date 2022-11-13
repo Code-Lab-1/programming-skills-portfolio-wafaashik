@@ -1,0 +1,3 @@
+items=["Nissan patrol","BMW","tesla"]
+for i in items:
+  print("i would love to own a ",i)
