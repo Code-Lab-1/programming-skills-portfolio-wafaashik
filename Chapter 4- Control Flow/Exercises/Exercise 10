@@ -1,0 +1,11 @@
+# passing version
+Monster_color = 'red'
+
+if Monster_color == 'red':
+    print("You just earned 5 points!")
+
+#failing version
+Monster_color = 'yellow'
+
+if Monster_color == 'green':
+    print("You just earned 5 points!")

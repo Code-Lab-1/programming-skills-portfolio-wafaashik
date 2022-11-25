@@ -1,0 +1,4 @@
+def favorite_song(title):
+    print(f"{title} is one of my favorite songs.")
+
+favorite_song('Off my face')

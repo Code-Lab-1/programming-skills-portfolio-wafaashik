@@ -1,0 +1,3 @@
+x= "Dua"
+message = "My favorite name is " + str(x) 
+print(message)

@@ -63,3 +63,10 @@ You will to use the arithmetic operators to complete this exercise.
 &nbsp;
 &nbsp;
 &nbsp;
+## Extra questions 
+
+## Exercise 6 : Glass of water
+## Exercise 7 : Favourite alphabet
+## Exercise 8 : Glass of beads
+## Exercise 9 : Data types
+## Exercise 10 : Favourite name

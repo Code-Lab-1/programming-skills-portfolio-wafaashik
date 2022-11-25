@@ -1,0 +1,10 @@
+favorite_milkshake = ['Chocolate Milkshake', 'Strawberry Milkshake', 'Banana Milkshake']
+
+if 'Strawberry Milkshake' in favorite_milkshake :
+    print("You really like Strawberry Milkshake!")
+if 'Oreo Milkshake' in favorite_milkshake:
+    print("You really like Oreo Milkshake!")
+if 'Mango Milkshake' in favorite_milkshake:
+    print("You really like Mango Milkshake!")
+if 'Vanilla Milkshake' in favorite_milkshake:
+    print("You really like Vanilla Milkshake!")
