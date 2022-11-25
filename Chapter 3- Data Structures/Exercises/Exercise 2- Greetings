@@ -1,0 +1,9 @@
+names = ['Maryam', 'Ayaat', 'Zara']
+message = f"Hello,How are you {names[0].title()}!"
+print(message)
+
+message = f"Hello,Nice to meet you {names[1].title()}!"
+print(message)
+
+message = f"Hello,Have a good day {names[2].title()}!"
+print(message)

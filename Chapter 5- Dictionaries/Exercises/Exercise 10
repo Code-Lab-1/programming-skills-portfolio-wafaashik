@@ -1,0 +1,9 @@
+favorite_Food = {
+    'Luna': 'Pizza',
+    'sarah': 'Burger',
+    'John': 'Noodles',
+    'Ezra': 'Biriyani',
+    }
+
+for name, language in favorite_Food.items():
+    print(f"{name.title()}'s favorite food is {language.title()}.")

@@ -55,4 +55,9 @@ Call your function for three different cities, at least one of which is not in t
 &nbsp;
 &nbsp;
 
-
+## Extra Questions
+# Exercise 6 : Album
+# Exercise 7 : Sandwich
+# Exercise 8 : message
+# Exercise 9 : favourite movie
+# Exercise 10 : Favourite song

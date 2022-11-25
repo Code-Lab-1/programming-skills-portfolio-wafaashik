@@ -56,5 +56,11 @@ occurrences of 'pastrami' from sandwich_orders. Make sure no pastrami sandwiches
 
 &nbsp;
 &nbsp;
+## Extra Questions
 
+# Exercise 6 : Car
+# Exercise 7 : Restaurant seat 
+# Exercise 8 : Menu
+# Exercise 9 : Multipes of ten
+# Exercise 10 : Drinks
 

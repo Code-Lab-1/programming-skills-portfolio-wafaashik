@@ -1,0 +1,26 @@
+people = []
+person = {
+    'first_name': 'Aysha',
+    'last_name': 'Fathima',
+    'age': 19,
+    }
+people.append(person)
+
+person = {
+    'first_name': 'Abdul',
+    'last_name': 'Samad',
+    'age': 22,
+    }
+people.append(person)
+
+person = {
+    'first_name': 'John',
+    'last_name': 'Mathew',
+    'age': 40,
+    }
+people.append(person)
+
+for person in people:
+    name = f"{person['first_name'].title()} {person['last_name'].title()}"
+    age = person['age']
+    print(f"{name}, is {age} years old.")

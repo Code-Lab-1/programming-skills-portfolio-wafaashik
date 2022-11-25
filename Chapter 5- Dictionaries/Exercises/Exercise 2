@@ -1,0 +1,22 @@
+glossary = {
+    'dictionary': "A collection of key-value pairs.",
+    'string': 'A series of characters.',
+    'Syntax': 'Set of rules to be followed when writing program.',
+    'Sequence':'An object that contains multiple items of data.',
+    'Index':'A number specifying the position of an element in a list.',
+    }
+
+word = 'dictionary'
+print("\n" + word.title() + ":" + glossary[word])
+
+word = 'string'
+print("\n" + word.title() + ":" + glossary[word])
+
+word = 'Syntax'
+print("\n" + word.title() + ":" + glossary[word])
+
+word = 'Sequence'
+print("\n" + word.title() + ":" + glossary[word])
+
+word = 'Index'
+print("\n" + word.title() + ":" + glossary[word])

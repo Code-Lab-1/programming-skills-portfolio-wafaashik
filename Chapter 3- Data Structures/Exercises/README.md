@@ -104,5 +104,10 @@ Think of at least five places in the world you’d like to visit.
 
 &nbsp;
 &nbsp;
+## Extra questions 
+
+## Exercise 8: Favourite food.
+## Exercise 9: Countries
+## Exercise 10
 
 

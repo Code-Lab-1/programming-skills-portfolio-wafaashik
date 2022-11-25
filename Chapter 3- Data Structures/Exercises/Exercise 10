@@ -1,0 +1,9 @@
+Country = ['Maldives', 'France', 'Japan']
+message = f"Hey, I would love to visit {Country[0].title()}!"
+print(message)
+
+message = f"Hey, I would love to visit {Country[1].title()}!"
+print(message)
+
+message = f"Hey, I would love to visit {Country[2].title()}!"
+print(message)

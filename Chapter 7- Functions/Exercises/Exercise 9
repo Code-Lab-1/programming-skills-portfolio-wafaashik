@@ -1,0 +1,4 @@
+def favorite_movie(title):
+    print(f"{title} is one of my favorite movie.")
+
+favorite_movie('The pianist')

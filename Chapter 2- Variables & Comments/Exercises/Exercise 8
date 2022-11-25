@@ -1,0 +1,3 @@
+glass_of_beads=9
+glass_of_beads =glass_of_beads + 1
+print(glass_of_beads)

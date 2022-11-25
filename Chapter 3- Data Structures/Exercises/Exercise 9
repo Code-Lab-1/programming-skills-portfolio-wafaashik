@@ -1,0 +1,4 @@
+Country = ['India', 'UAE', 'Japan']
+print(Country[0])
+print(Country[1])
+print(Country[2])
