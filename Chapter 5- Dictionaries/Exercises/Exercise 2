@@ -7,16 +7,16 @@ glossary = {
     }
 
 word = 'dictionary'
-print(f"\n{word.title()}: {glossary[word]}")
+print("\n" + word.title() + ":" + glossary[word])
 
 word = 'string'
-print(f"\n{word.title()}: {glossary[word]}")
+print("\n" + word.title() + ":" + glossary[word])
 
 word = 'Syntax'
-print(f"\n{word.title()}: {glossary[word]}")
+print("\n" + word.title() + ":" + glossary[word])
 
 word = 'Sequence'
-print(f"\n{word.title()}: {glossary[word]}")
+print("\n" + word.title() + ":" + glossary[word])
 
 word = 'Index'
-print(f"\n{word.title()}: {glossary[word]}")
+print("\n" + word.title() + ":" + glossary[word])
