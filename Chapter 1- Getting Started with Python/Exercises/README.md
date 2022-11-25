@@ -56,5 +56,5 @@ Write a Python program which accepts the radius of a circle from the user and co
 ## Exercise 6 : Python Program to Find the Square Root.
 ## Exercise 7: Python Program to Calculate the Area of a Triangle.
 ## Exercise 8: Python Program to Add Two Numbers.
-## Exercise 9: Python Program To Multiply Two Numbers.
-## Exercise 10: Python Program To Subtract Two Numbers.
+## Exercise 9: Python Program To subtract Two Numbers.
+## Exercise 10: Python Program To multilpy Two Numbers.
