@@ -1,0 +1,8 @@
+money=50
+lightstick=6
+purchase=money/lightstick 
+brought=f"she can buy{purchase}lightsticks"
+print(brought)
+remaining_money=money%lightstick
+remaining_money=f"she will have{remaining_money}pounds left."
+print(remaining_money)

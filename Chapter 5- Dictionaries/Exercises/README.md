@@ -68,4 +68,9 @@ each pet
 &nbsp;
 &nbsp;
 
-
+## Extra questions
+# Exercise 6 : Favourite places
+# Exercise 7 : Favourite languages
+# Exercise 8 : Favourite numbers
+# Exercise 9 : Person2
+# Exercise 10 : Favourite food

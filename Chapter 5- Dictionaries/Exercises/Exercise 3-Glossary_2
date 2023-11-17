@@ -1,0 +1,16 @@
+glossary = {
+    'dictionary': "A collection of key-value pairs.",
+    'string': 'A series of characters.',
+    'Syntax': 'Set of rules to be followed when writing program.',
+    'Sequence':'An object that contains multiple items of data.',
+    'Index':'A number specifying the position of an element in a list.',
+    'Concatenate':'Join two things together.',
+    'Slice':'A span of items taken from a sequence.',
+    'comment': 'A note in a program that the Python interpreter ignores.',
+    'value': 'An item associated with a key in a dictionary.',
+    'float': 'A numerical value with a decimal component.',
+    }
+
+for word, definition in glossary.items():
+
+    print(f"\n{word.title()}: {definition}")

@@ -1,0 +1,4 @@
+a=" Bathspa "
+b=" university "
+c=" Rak "
+print(a+b+c)

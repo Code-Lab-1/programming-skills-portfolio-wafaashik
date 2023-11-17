@@ -1,0 +1,10 @@
+favorite_numbers = {
+    'Cindy': [4, 20],
+    'Abdullah': [11, 15],
+    'Fathima': [2, 1],
+    }
+
+for name, numbers in favorite_numbers.items():
+    print(f"\n{name.title()} Favourite numbers are :")
+    for number in numbers:
+        print(f"  {number}")

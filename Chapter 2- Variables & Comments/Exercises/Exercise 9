@@ -1,0 +1,8 @@
+x = 932765
+print(type(x))
+
+a = "hey there"
+print(type(a))
+
+b= 23.32
+print(type(b))

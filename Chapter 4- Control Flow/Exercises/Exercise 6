@@ -1,0 +1,7 @@
+usernames = ['Ezra', 'Grace', 'Maryam', 'Lucy', 'Luna']
+
+for username in usernames:
+    if username == 'Ezra':
+        print("Hello Ezra, I love your name!")
+    else:
+        print(f"Hello {username}, Nice to meet you")
